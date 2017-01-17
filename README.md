@@ -4,6 +4,7 @@ Grav is a physics engine that allows you to:
 
 - setup different sources of gravity
 - let objects move within gravitational fields (even sources of gravity can move)
+- setup obstacles (and see stuff bouncing off walls)
 
 ## Solar system
 
