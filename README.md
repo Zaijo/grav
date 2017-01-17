@@ -9,7 +9,7 @@ Grav is a physics engine that allows you to:
 
 You can play with slovak version of solar system simulation in [grav.jar](https://github.com/Zaijo/grav/raw/master/grav.jar) by simply running `java -jar grav.jar`
 
-![demo image]([grav.jar](https://github.com/Zaijo/grav/raw/master/grav.jar))
+![demo image](https://github.com/Zaijo/grav/raw/master/solar-system.png)
 
 ## Contribution
 
